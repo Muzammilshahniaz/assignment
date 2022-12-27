@@ -1,0 +1,24 @@
+
+select
+{
+    height: 40px;
+    width: 300px;
+    border:2px solid green;
+}
+p{
+   background-color: white;
+   color:blue 
+}
+
+input{
+    height: 40px;
+    width: 300px;
+    border:2px solid green;
+}
+.c1
+{
+    background-color: blue; 
+    color: white;
+}
+
+    
